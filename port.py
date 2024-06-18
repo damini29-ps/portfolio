@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from streamlit_extras.app_logo import add_logo
+#from streamlit_extras.app_logo import add_logo
 from streamlit_option_menu import option_menu
 
 st.set_page_config(
