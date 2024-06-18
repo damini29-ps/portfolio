@@ -18,7 +18,7 @@ logo_url = "Pic.png"
 st.sidebar.image(logo_url)
 
 with st.sidebar:
-    selected = st.sidebar.option_menu("", ["Introduction", "Skills", "Projects", "Achievements", "Get in Touch"], 
+    selected = option_menu("", ["Introduction", "Skills", "Projects", "Achievements", "Get in Touch"], 
         icons=[], menu_icon="cast", default_index=0)
     selected
 
