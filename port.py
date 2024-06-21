@@ -124,6 +124,7 @@ if selected == "Projects":
         -  Led a design project in reczee to meet the goals of the project through my designs.
         -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
         -  Created innovative designs that effectively communicated the brand’s message to target audiences.
+        -  [Reczee](https://www.reczee.com/)
         """
           )
     with col2:
@@ -148,6 +149,7 @@ if selected == "Projects":
         -  Led a design project in reczee to meet the goals of the project through my designs.
         -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
         -  Created innovative designs that effectively communicated the brand’s message to target audiences.
+        -  [OrFresh](https://www.figma.com/proto/VzzHlGV01ofzAePG3cdTY3/Untitled?node-id=102-263&starting-point-node-id=102%3A263)
         """
           )
     
@@ -165,6 +167,7 @@ if selected == "Projects":
         -  Led a design project in reczee to meet the goals of the project through my designs.
         -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
         -  Created innovative designs that effectively communicated the brand’s message to target audiences.
+        -  [Event Maker](https://www.figma.com/proto/spfWzWreCGYog1aKo01qGb/NewPortfoio?node-id=229-189&starting-point-node-id=229%3A189)
         """
           )
     with col2:
