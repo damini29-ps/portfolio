@@ -88,7 +88,7 @@ if selected == "Skills":
         - Tools : 
         """
           )
-        st.write("Figma  |  CANVA  |  InDesign  ")
+        st.write("FIGMA  |  CANVA   |   ADOBE XD  ")
 
         st.markdown(
         """
@@ -116,7 +116,7 @@ if selected == "Projects":
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image("Illustration - Frame.jpg")
+        st.image("Realme 10.png")
 
         st.markdown(
         """
@@ -124,12 +124,15 @@ if selected == "Projects":
         -  Led a design project in reczee to meet the goals of the project through my designs.
         -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
         -  Created innovative designs that effectively communicated the brand’s message to target audiences.
-        -  [Reczee](https://www.reczee.com/)
+        -  [Reczee Website Project](/)
         """
           )
+
     with col2:
-        st.image("Frame 9.jpg")
-        st.image("ppt.jpg")
+        st.image("Desktop - 7.jpg")
+        st.image("Frame 38.jpg")
+        
+        st.image("Group 177.png")
 
 
 #Project 2
@@ -145,11 +148,11 @@ if selected == "Projects":
 
         st.markdown(
         """
-        -  All stakeholders in the hiring process, including talent acquisition, interview panels, and organization administrators, benefit from the end-to-end recruiting platform RECZEE.
-        -  Led a design project in reczee to meet the goals of the project through my designs.
-        -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
-        -  Created innovative designs that effectively communicated the brand’s message to target audiences.
-        -  [OrFresh](https://www.figma.com/proto/VzzHlGV01ofzAePG3cdTY3/Untitled?node-id=102-263&starting-point-node-id=102%3A263)
+        -  OrFresh is a website that assists people who are diet-conscious and require something green and leafy to maintain a healthy diet. 
+        -  The platform provides clean and user-friendly visuals to keep users interested with the site. 
+        -  Trust OrFresh's process and services. I designed this website with simplicity in mind. 
+        -  Transitions are designed to keep the user engaged as a visually appealing component of the design process.
+        -  [OrFresh Website Project](https://www.figma.com/proto/VzzHlGV01ofzAePG3cdTY3/Untitled?node-id=102-263&starting-point-node-id=102%3A263)
         """
           )
     
@@ -163,16 +166,16 @@ if selected == "Projects":
 
         st.markdown(
         """
-        -  All stakeholders in the hiring process, including talent acquisition, interview panels, and organization administrators, benefit from the end-to-end recruiting platform RECZEE.
-        -  Led a design project in reczee to meet the goals of the project through my designs.
-        -  Successfully managed multiple projects simultaneously.meeting tight deadlines.
-        -  Created innovative designs that effectively communicated the brand’s message to target audiences.
-        -  [Event Maker](https://www.figma.com/proto/spfWzWreCGYog1aKo01qGb/NewPortfoio?node-id=229-189&starting-point-node-id=229%3A189)
+        -  Event Maker is a website that offers complete party services and event management programs. 
+        -  Event maker is created in such a manner that the visitor will not be bored while visiting our website, and the look and feel conveys everything about the party mode. 
+        -  I've kept in mind that feel is more crucial for this site because it caters to the "All cool party planner guys vibe" crowd. 
+        -  [Event Maker Website Project](https://www.figma.com/proto/spfWzWreCGYog1aKo01qGb/NewPortfoio?node-id=229-189&starting-point-node-id=229%3A189)
         """
           )
+
     with col2:
-        st.image("Eve1 (1).jpg")
-        st.image("Eve1 (2).jpg")
+        st.image("Property 1.png")
+        st.image("MacBook.png")
 
 
 #Achievements
@@ -243,4 +246,5 @@ if selected == "Get in Touch":
         st.write("[Behance](https://www.behance.net/daminisharma2905)")
         st.write("[Instagram](https://www.instagram.com/_damini_designer/)")
     st.text("")
+    
     
