@@ -29,7 +29,7 @@ if selected == "Introduction":
     st.image("Rectangle 88.png")
     #st.markdown("""---""")
     st.text("")
-    st.write("Hey!")
+    st.title("Hey!")
 
 
     col1, col2 = st.columns(2)
