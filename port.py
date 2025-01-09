@@ -202,12 +202,20 @@ if selected == "Achievements":
 
     st.markdown(
         """
+        -  Introduction to Social Media Marketing in 2024 
+        """
+          )
+    st.write("The best course available on Coursera. Starting from the foundations and continuing through the development of the entire platform or application, the tutors greatly improved my understanding of the design process and making them visible to others, as well as the fundamental strategy of how to present the designs and your product and services to others via social media platforms. By their superb illustrations that transcend the basics and demonstrate the development and construction of the full platform or application.")
+
+
+    st.markdown(
+        """
         -  HTML/CSS Certified through Coursera in 2023 
         """
           )
     st.write("The best course is the one offered by Coursera. With their excellent examples that go beyond the fundamentals and show how the entire platform or application is being created and constructed, the tutors have really aided me in learning how the web is designed utilizing simple text-based html and CSS code.")
 
-
+   
 #Get in touch
 if selected == "Get in Touch":
     st.title("Get in Touch")
