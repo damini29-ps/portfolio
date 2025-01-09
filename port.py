@@ -58,7 +58,7 @@ if selected == "Introduction":
                     pdf_content = generate_pdf_content()
 
 # Assuming you have a PDF file named "example.pdf"
-    file_path = "Resume.pdf"
+    file_path = "UI-Resume.pdf"
 
 # Read the PDF file and get its content as bytes
     with open(file_path, "rb") as file:
