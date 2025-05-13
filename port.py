@@ -113,26 +113,28 @@ if selected == "Projects":
 
 
 #Project 1
-    st.markdown("""---""")
     st.header("Paw Paradise")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("OrF (1).jpg")
-        st.image("OrF (2).jpg")
+        st.image("Paw_1.webp")
+        st.image("Paw_2.webp")
 
     with col2:
-        st.image("OrF (3).jpg")
+        st.image("Paw_3.webp")
 
         st.markdown(
         """
-        -  OrFresh is a website that assists people who are diet-conscious and require something green and leafy to maintain a healthy diet. 
-        -  The platform provides clean and user-friendly visuals to keep users interested with the site. 
-        -  Trust OrFresh's process and services. I designed this website with simplicity in mind. 
-        -  Transitions are designed to keep the user engaged as a visually appealing component of the design process.
-        -  [OrFresh Website Project](https://www.figma.com/proto/VzzHlGV01ofzAePG3cdTY3/Untitled?node-id=102-263&starting-point-node-id=102%3A263)
+        -  As the UI/UX designer for Paw Paradise, a veterinary services platform focused on providing compassionate care for pets, I was responsible for crafting a user-friendly, emotionally engaging digital experience tailored for pet owners seeking reliable veterinary assistance. 
+        -  Conducted user research through surveys and interviews with pet owners to understand their needs, expectations, and pain points related to online vet consultations and appointment bookings. 
+        -  Designed a clean, pet-friendly interface using soft, calming colors and playful design elements to create a comforting experience. Incorporated icons and illustrations of pets for added emotional connection.
+        -  Designed a seamless booking system that allowed users to easily schedule appointments with vets, access pet care services, and receive timely reminders.
+        -  [Paw Paradise Website Project](https://www.figma.com/design/sVXSLIGWNolLYqpgED73gy/Projects?node-id=102-8&p=f&t=2gELSzvVL8AXCQA0-0)
         """
-          )    
+          ) 
+
+    
 #Project 2
+    st.markdown("""---""")
     st.header("Reczee")
     col1, col2 = st.columns(2)
 
