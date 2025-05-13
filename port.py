@@ -58,7 +58,7 @@ if selected == "Introduction":
                     pdf_content = generate_pdf_content()
 
 # Assuming you have a PDF file named "example.pdf"
-    file_path = "UI-Resume.pdf"
+    file_path = "Damini_UIUX Resume (2).pdf"
 
 # Read the PDF file and get its content as bytes
     with open(file_path, "rb") as file:
@@ -102,7 +102,7 @@ if selected == "Skills":
         - Soft Skills : 
         """
           )
-        st.write("Communication  |  Problem Solving  |  Creative Thinking  |  Leadership")
+        st.write("Wireframing   |   Prototyping  |  Problem Solving  |  Creative Thinking    |    Journey Mapping   |  User Research   |  Leadership")
 
 #Projects
 if selected == "Projects":
@@ -112,7 +112,7 @@ if selected == "Projects":
     st.text("")
 
 #Project 1
-    st.header("Mocal")
+    st.header("MoCal")
     col1, col2 = st.columns(2)
 
     with col1:
