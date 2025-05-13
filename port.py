@@ -111,8 +111,30 @@ if selected == "Projects":
     st.image("Rectangle 88.png")
     st.text("")
 
-
 #Project 1
+    st.header("Mocal")
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.image("Moc_1.webp")
+
+        st.markdown(
+        """
+        -  At MoCal, an automated scheduling and recruitment management platform, I led the UI/UX design efforts to create a user-centric website that empowers HR departments to streamline their hiring process and optimize time management for both recruiters and candidates.
+        -  Collaborated with recruiters, HR managers, and job seekers to gather insights into their daily challenges in managing interview scheduling and candidate shortlisting. Mapped user journeys to identify friction points and opportunities for automation.
+        -  Structured content and features to highlight MoCal’s core benefits, including automated scheduling, seamless calendar integration, and improved communication channels between HR and candidates.
+        -  Crafted a clean, modern, and professional UI aligned with MoCal’s brand identity. Used a strategic blend of typography, icons, and subtle motion effects to guide user actions and build trust.
+        -  Designed key flows including automated time-slot selection, interview reminders, multi-user calendar syncing, and candidate pipeline dashboards.
+        -  [Mocal](https://www.figma.com/design/sVXSLIGWNolLYqpgED73gy/Projects?node-id=406-1659&t=2gELSzvVL8AXCQA0-0)
+        """
+          )
+
+    with col2:
+        st.image("Moc_2.webp")
+        st.image("Moc_3.webp")
+
+#Project 2
+    st.markdown("""---""")
     st.header("Paw Paradise")
     col1, col2 = st.columns(2)
     with col1:
@@ -133,7 +155,7 @@ if selected == "Projects":
           ) 
 
     
-#Project 2
+#Project 3
     st.markdown("""---""")
     st.header("Reczee")
     col1, col2 = st.columns(2)
@@ -158,7 +180,7 @@ if selected == "Projects":
         st.image("Group 177.png")
 
 
-#Project 3
+#Project 4
     st.markdown("""---""")
     st.header("OrFresh")
     col1, col2 = st.columns(2)
@@ -179,7 +201,7 @@ if selected == "Projects":
         """
           )
     
-#Project 4
+#Project 5
     st.markdown("""---""")
     st.header("Event Maker")
     col1, col2 = st.columns(2)
