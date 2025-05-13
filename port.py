@@ -111,7 +111,28 @@ if selected == "Projects":
     st.image("Rectangle 88.png")
     st.text("")
 
+
 #Project 1
+    st.markdown("""---""")
+    st.header("Paw Paradise")
+    col1, col2 = st.columns(2)
+    with col1:
+        st.image("OrF (1).jpg")
+        st.image("OrF (2).jpg")
+
+    with col2:
+        st.image("OrF (3).jpg")
+
+        st.markdown(
+        """
+        -  OrFresh is a website that assists people who are diet-conscious and require something green and leafy to maintain a healthy diet. 
+        -  The platform provides clean and user-friendly visuals to keep users interested with the site. 
+        -  Trust OrFresh's process and services. I designed this website with simplicity in mind. 
+        -  Transitions are designed to keep the user engaged as a visually appealing component of the design process.
+        -  [OrFresh Website Project](https://www.figma.com/proto/VzzHlGV01ofzAePG3cdTY3/Untitled?node-id=102-263&starting-point-node-id=102%3A263)
+        """
+          )    
+#Project 2
     st.header("Reczee")
     col1, col2 = st.columns(2)
 
@@ -135,7 +156,7 @@ if selected == "Projects":
         st.image("Group 177.png")
 
 
-#Project 2
+#Project 3
     st.markdown("""---""")
     st.header("OrFresh")
     col1, col2 = st.columns(2)
@@ -156,7 +177,7 @@ if selected == "Projects":
         """
           )
     
-#Project 3
+#Project 4
     st.markdown("""---""")
     st.header("Event Maker")
     col1, col2 = st.columns(2)
@@ -176,6 +197,7 @@ if selected == "Projects":
     with col2:
         st.image("Property 1.png")
         st.image("MacBook.png")
+
 
 
 #Achievements
